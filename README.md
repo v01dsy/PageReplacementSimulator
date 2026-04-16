@@ -56,5 +56,9 @@ Uses a circular buffer with a “hand” pointer and a reference bit for each fr
   - If reference bit is 1, it is cleared and the page is skipped.
   - The first page with reference bit 0 is evicted.
 
+
+## Extra Notice
+The way github displays the contributions is NOT ACCURATE to the work that was actually done by group members.
+
 ## AI Usage Statement
 AI tools were used in a limited way to help understand page replacement algorithms and to assist in structuring and formatting documentation.
